@@ -1,11 +1,10 @@
-# Smart Resume Tracking System using Google Gemini Pro
+# Intelligent Resume Management System with Google Gemini Pro
 
-The objective of this project is to create an Resume ATS leveraging power of LLM. I have used Google state-of-the-art Gemini Pro model to analyze the resume.
+This project aims to develop a Resume ATS that utilizes the capabilities of Large Language Models. It incorporates Google's cutting-edge Gemini Pro model for resume analysis.
 
-Python Packages used in this project:
-1. Streamlit : For UI
-2. PyPDF2 : To extract text from resume pdf
-3. google.generativeai : To connect with Gemini Model API
+Python Libraries Utilized in This Project:
+1. Streamlit: For the user interface.
+2. PyPDF2: For extracting text from PDF resumes.
+3. google.generativeai: For accessing the Gemini Model API.
+4. Get api key for Google Gemini Pro at https://aistudio.google.com/app/apikey
 
-Demo:
-![resume_tracker.png](resume_tracker.png)
